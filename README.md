@@ -10,3 +10,6 @@ commit
 # Revert 하는 방법
 revert
 Revert 사용하여 보았습니다.
+
+# Discard
+변경 사항을 commit 하기 전에 날려버리기 
